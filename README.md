@@ -72,7 +72,7 @@ Named
 
 
 ## 📂 Employee Attrition Dashboard
-The Employee Attrition Dashboard is a data analytics project designed using PowerBI to empower organizations with insights into employee attrition trends. This dashboard consolidates key performance indicators (KPIs) and visualizations to facilitate a deep understanding of workforce dynamics. Employee_attrition_prediction.pbix
+The Employee Attrition Dashboard is a data analytics project designed using PowerBI to empower organizations with insights into employee attrition trends. This dashboard consolidates key performance indicators (KPIs) and visualizations to facilitate a deep understanding of workforce dynamics. [Employee_attrition_prediction Dashboard](Employee_attrition_prediction.pbix)
 
 ##  📂 **About the Design of the project**
 ### Google Collab code Workflow
